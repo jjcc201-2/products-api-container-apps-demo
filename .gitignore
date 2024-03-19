@@ -1,0 +1,9 @@
+# Node.js Tools for Visual Studio
+node_modules/
+
+# ignore the .terraform directory
+/terraform/.terraform.lock.hcl
+/terraform/secret.tfvars
+/terraform/.terraform
+/terraform/terraform.tfstate
+/terraform/terraform.tfstate.backup
